@@ -1,0 +1,7 @@
+{
+  "name": "victor_cipriano_portifolio",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
